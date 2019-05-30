@@ -63,6 +63,10 @@ html {
   background-color: rgba(180, 220, 255, .3);
 }
 
+.masthead a:focus {
+  outline: 3px solid cyan;
+}
+
 .techniques {
   background-image: url("../images/galaxies-in-hiding.jpg");
 }
